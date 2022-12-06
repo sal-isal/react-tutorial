@@ -35,5 +35,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://taniarascia.github.io/react-tutorial"
+  "homepage": "https://sal-isal.github.io/react-tutorial",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
